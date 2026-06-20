@@ -1,0 +1,4 @@
+185.220.101.47 - - [10/Jun/2025] "POST /wp-login.php HTTP/1.1" 401 512
+45.33.32.156 - - [10/Jun/2025] "GET /../../../etc/passwd HTTP/1.1" 404 0
+192.168.1.5 - - [10/Jun/2025] "GET /dashboard HTTP/1.1" 200 1024
+203.0.113.42 - - [10/Jun/2025] "GET /index.html HTTP/1.1" 200 512
