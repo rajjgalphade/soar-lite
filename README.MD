@@ -80,11 +80,9 @@ MALICIOUS line 1 → 185.220.101.47
 MALICIOUS line 2 → 45.33.32.156
 
 
-│ Tag          │ Count  │
-
-│ MALICIOUS    │ 2      │
-
-│ CLEAN        │ 1      │
+Tag           Count
+MALICIOUS       2
+CLEAN           1
 
 ## Tech stack
 
