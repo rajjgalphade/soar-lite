@@ -78,6 +78,7 @@ Enriching IOCs...
 MALICIOUS line 1 → 185.220.101.47
 
 MALICIOUS line 2 → 45.33.32.156
+
 ┌──────────────┬────────┐
 
 │ Tag          │ Count  │
