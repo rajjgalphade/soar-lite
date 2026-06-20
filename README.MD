@@ -88,8 +88,8 @@ MALICIOUS line 2 → 45.33.32.156
 ## Tech stack
 
 - Python 3.10+
-- requests — HTTP API calls
-- rich — terminal formatting
+- requests : HTTP API calls
+- rich : terminal formatting
 - VirusTotal API v3
 - AbuseIPDB API v2
 
