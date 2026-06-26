@@ -34,7 +34,7 @@ soar_lite/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOURUSERNAME/soar-lite.git
+git clone https://github.com/rajjgalphade/soar-lite.git
 cd soar-lite
 ```
 
